@@ -10,10 +10,10 @@ The steps I did to install Slurm 15-08.08 on Centos 7
 >yum install readline-devel readline
   
 
->2. Dowdload the Slurm package from its' official website.
+2. Dowdload the Slurm package from its' official website.
 
 
->3. You can untar the package file and run ./configure script, and then run make command to install.
+3. You can untar the package file and run ./configure script, and then run make command to install.
 
 The alternative way is to use rpmbuild to do so. You may need to install rpmnuild package first:
 
