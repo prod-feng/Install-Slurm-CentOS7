@@ -19,7 +19,7 @@ The alternative way is to use rpmbuild to do so. You may need to install rpmnuil
 
 >yum install rpm-build
 
-Then,
+Then, 
 
 >rpmbuild -ta  slurm-15.08.8.tar.bz2 
 
