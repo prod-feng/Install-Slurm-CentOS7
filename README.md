@@ -8,7 +8,7 @@ The steps I did to install Slurm 15-08.08 on Centos 7
 >yum install munge-devel munge
 
 >yum install readline-devel readline
-
+  
 
 >2. Dowdload the Slurm package from its' official website.
 
